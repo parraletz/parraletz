@@ -3,17 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/parraletz" target="blank"><img src="https://img.shields.io/twitter/follow/parraletz?logo=twitter&style=for-the-badge" alt="parraletz" /></a> </p>
 
-- 🔭 I’m currently working on [occmundial](https://github.com/occmundial)
+- 🔭 I’m currently working on TBD
 
 - 🌱 I’m currently learning **NestJS, Gen AI, RustLang**
 
-- 👯 I’m looking to collaborate on [kubernetes](https://github.com/kubernetes)
+- 👯 I’m colaborator on [kubernetes](https://github.com/kubernetes) translating Kubernetes documentation to spanish.
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+- I'm Organizer of [Cloud Native Queretaro](https://community.cncf.io/cloud-native-queretaro/)
 
-- 📝 I regularly write articles on [https://community.aws/@parraletz](https://community.aws/@parraletz)
+- 👨‍💻 All of my projects are available at  [https://parraletz.space/projects](https://parraletz.space/projects)
 
-- 💬 Ask me about **aws, typescript, devops, sre, observability, linux, azure, gcp**
+- 📝 I regularly write articles on [https://community.aws/@parraletz](https://community.aws/@parraletz) , [https://linkedin.com/in/parraletz](https://linkedin.com/in/parraletz),  [https://parraletz.space/blog](https://parraletz.space/blog)
+
+- 💬 Ask me about **aws, typescript, devops, sre, observability, linux, azure, gcp, python**
 
 - 📫 How to reach me **parraletz@gmail.com**
 
