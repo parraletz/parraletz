@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/parraletz" target="blank"><img src="https://img.shields.io/twitter/follow/parraletz?logo=twitter&style=for-the-badge" alt="parraletz" /></a> </p>
 
-- 🔭 I’m currently working on TBD
+- 🔭 I’m currently working on Eden
 
 - 🌱 I’m currently learning **NestJS, Gen AI, RustLang**
 
